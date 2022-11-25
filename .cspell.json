@@ -1,0 +1,15 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["boardgame"],
+  "dictionaries": [
+    "companies",
+    "en_US",
+    "filetypes",
+    "misc",
+    "node",
+    "npm",
+    "softwareTerms",
+    "typescript"
+  ]
+}
