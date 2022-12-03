@@ -1,7 +1,12 @@
 {
   "version": "0.2",
   "language": "en",
-  "words": ["boardgame"],
+  "words": [
+    "Akira",
+    "boardgame",
+    "rushstack",
+    "Vetur"
+  ],
   "dictionaries": [
     "companies",
     "en_US",
