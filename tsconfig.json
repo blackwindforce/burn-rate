@@ -1,6 +1,9 @@
 {
   "extends": "@vue/tsconfig/tsconfig.web.json",
-  "compilerOptions": { "baseUrl": ".", "paths": { "@/*": ["./src/*"] } },
+  "compilerOptions": {
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "paths": { "@/*": ["./src/*"] }
+  },
   "include": ["env.d.ts", "src/**/*", "src/**/*.vue"],
   "references": [{ "path": "./tsconfig.config.json" }]
 }
